@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+    
+    <head>
+    <meta charset="UTF-8">    
+    <title>OVI DISEÑO DE SITIOS WEB</title>
+    <link rel="stylesheet" href="css/style.css"
+    </head>
+    <body>
+          <figure>
+             <img src="img/unad.jpg">
+           </figure>
+        <div id="contenido">
+            <header>
+                <h1>OVI DISEÑO DE SITIOS WEB</h1>
+                <h2>INTRODUCIÓN AL DISEÑO DE SITIOS WEB</h2>
+            </header>
+            <nav>
+                <ul>
+                    <li><a href="Inicio">Inicio</a></li>
+                    <li><a href="Lecturas">Lecturas</a></li>
+                    <li><a href="Multimedia">Multimedia</a></li>
+                    <li><a href="Actividades">Actividades</a></li>
+                    <li><a href="Autores">Autores</a></li>
+                </ul> 
+            </nav>
+            <section>
+                <article>
+                    <h3>OBJETIVOS DE ESTE OVI</h3>
+    
+                    <h4>Objetivo general</h4>
+                    <p>El OVI Diseño de sitios web se elabora con la finalidad de poneren práctica todas aquellas herramientas básicas con las cuales podemos crear un sitio web online.</p>
+                    
+                    <h4>Objetivo Especifico 1</h4>
+                    <p>Dar a entender a los usuarios de este sitio web información básica y detalladas sobre qué es y cómo funciona GITHUB, GIT HTML5 y CSS3, esto se presenta por medio de varios ejemplos y videos explicativos con los cuales esperamos que al terminar cada usuario este en la capacidad de hacer su propio sitio web online básico.</p>
+                
+                    <h4>Objetivo Especifico 2</h4>
+                    <p>Entender y comprender lo básico sobre el manejo de herramientas como git, github, html y css3 con las cuales se pueda efectuar el desarrollo de sitios web de lo básico a lo avanzado.</p>
+                     
+                     <h4>Objetivo Especifico 3</h4>
+                     <p>Desarrollar las temáticas abordadas en el curso de desarrollo de sitios web de una manera sencilla y práctica.</p>
+                     
+                    
+                </article>
+            </section>
+            <footer>
+                <h4>UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA | DISEÑO DE SITIOS WEB GRUPO_301122_4 2019 TODOS LOS DERECHOS RESERVADOS</h4>
+                
+            </footer>
+        </div>   
+    </body>
